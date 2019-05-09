@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>src/ImageSet/background.png</file>
+        <file>src/ImageSet/board_b.png</file>
+        <file>src/ImageSet/board_w.png</file>
+        <file>src/ImageSet/background1.png</file>
+        <file>src/ImageSet/background2.png</file>
+        <file>src/ImageSet/game_img.png</file>
+        <file>src/ImageSet/logo.png</file>
+    </qresource>
+    <qresource prefix="/chess-pieces">
+        <file>src/chesspiece/Chess_bdt45.svg</file>
+        <file>src/chesspiece/Chess_blt45.svg</file>
+        <file>src/chesspiece/Chess_kdt45.svg</file>
+        <file>src/chesspiece/Chess_klt45.svg</file>
+        <file>src/chesspiece/Chess_ndt45.svg</file>
+        <file>src/chesspiece/Chess_nlt45.svg</file>
+        <file>src/chesspiece/Chess_pdt45.svg</file>
+        <file>src/chesspiece/Chess_plt45.svg</file>
+        <file>src/chesspiece/Chess_qdt45.svg</file>
+        <file>src/chesspiece/Chess_qlt45.svg</file>
+        <file>src/chesspiece/Chess_rdt45.svg</file>
+        <file>src/chesspiece/Chess_rlt45.svg</file>
+        <file>src/chesspiece/90px-Chess_bdt45.svg.png</file>
+        <file>src/chesspiece/90px-Chess_blt45.svg.png</file>
+        <file>src/chesspiece/90px-Chess_kdt45.svg.png</file>
+        <file>src/chesspiece/90px-Chess_klt45.svg.png</file>
+        <file>src/chesspiece/90px-Chess_ndt45.svg.png</file>
+        <file>src/chesspiece/90px-Chess_nlt45.svg.png</file>
+        <file>src/chesspiece/90px-Chess_pdt45.svg.png</file>
+        <file>src/chesspiece/90px-Chess_plt45.svg.png</file>
+        <file>src/chesspiece/90px-Chess_qdt45.svg.png</file>
+        <file>src/chesspiece/90px-Chess_qlt45.svg.png</file>
+        <file>src/chesspiece/90px-Chess_rlt45.svg.png</file>
+        <file>src/chesspiece/90px-Chess_rdt45.svg.png</file>
+    </qresource>
+    <qresource prefix="/pureColor">
+        <file>src/pureColor/green.png</file>
+        <file>src/pureColor/orange.png</file>
+        <file>src/pureColor/red.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>src/sound/check.mp3</file>
+        <file>src/sound/checkmate_sound.mp3</file>
+        <file>src/sound/checkmate.mp3</file>
+        <file>src/sound/put_sound.mp3</file>
+        <file>src/sound/black_check_sound.mp3</file>
+        <file>src/sound/white_check_sound.mp3</file>
+        <file>src/sound/white_win_sound.mp3</file>
+        <file>src/sound/black_win_sound.mp3</file>
+        <file>src/sound/dead.mp3</file>
+    </qresource>
+</RCC>
